@@ -1,10 +1,13 @@
-<div style="margin-left: 50">
+<div>
   <img align="left" alt="gif" height="120px" src="./scott.gif"/>
-  <img margin-left="200" align="left" alt="GIF" height="120px" src="./rotated.gif"/>
+  <h2 align="center">Hello, world! and welcome to my repository!</h2>
+  <br>
+  <h3 align="center">i hope you enjoy!!!</h3>
+  <img align="right" alt="GIF" height="120px" src="./rotated.gif"/>
 </div>
 
-<h1 align="center">Hello, world! and welcome to my repository!</h1>
-  <h3 align="center">i hope you enjoy!!!</h3>
+
+  
 
   <a href="https://github.com/F1reFinger"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F1reFinger&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
