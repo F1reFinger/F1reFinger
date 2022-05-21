@@ -1,6 +1,6 @@
 <div style="margin-left: 50">
-  <img align=left alt="gif" height="120px" src="./scott.gif"/>
-  <img align="right" alt="GIF" height="120px" src="./rotated.gif"/>
+  <img align="left" alt="gif" height="120px" src="./scott.gif"/>
+  <img margin-left="200" align="left" alt="GIF" height="120px" src="./rotated.gif"/>
 </div>
 
 <h1 align="center">Hello, world! and welcome to my repository!</h1>
