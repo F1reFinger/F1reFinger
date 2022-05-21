@@ -15,8 +15,9 @@
   <p>i'm not the regular programmer type you see on web but i'm trying my best to become a quality programmer.I'm intrested in optmize existing things, embbed systems and iot projects.I also like play video games and hear music.</p>
   <br>
   <div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1reFinger&layout=compact&langs_count=7&theme=merko"/>
-  <img align="right" alt="GIF" width="100em" height="120em" src="./breathtaking.gif"/>
+   <img align="right" alt="GIF" width="140em" height="120em" src="./jonis-unscreen.gif"/>
+   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1reFinger&layout=compact&langs_count=7&theme=merko"/>
+   <img align="right" alt="GIF" width="180em" height="120em" src="./breathtaking-unscreen.gif"/>
   </div>
 
 
