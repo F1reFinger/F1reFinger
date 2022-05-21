@@ -6,7 +6,7 @@
 
   <a href="https://github.com/F1reFinger"></a>
    <div align="center">
-   <img align="left" alt="GIF" width="74em" height="120em" src="./images/ scott.gif"/>
+   <img align="left" alt="GIF" width="74em" height="120em" src="./images/scott.gif"/>
    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=F1reFinger&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     <img align="right" alt="GIF" width="74em" height="120em" src="./images/rotated.gif"/>
   </div>
@@ -34,6 +34,6 @@
   <br>
   <br>
   <div style="margin-left: 50">
-  <img align="center" alt="jpg" src="./50042.jpg"/>
+  <img align="center" alt="jpg" src="./images/50042.jpg"/>
 </div>
 
