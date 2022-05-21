@@ -6,18 +6,18 @@
 
   <a href="https://github.com/F1reFinger"></a>
    <div align="center">
-   <img align="left" alt="GIF" width="74em" height="120em" src="./scott.gif"/>
+   <img align="left" alt="GIF" width="74em" height="120em" src="./images/ scott.gif"/>
    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=F1reFinger&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img align="right" alt="GIF" width="74em" height="120em" src="./rotated.gif"/>
+    <img align="right" alt="GIF" width="74em" height="120em" src="./images/rotated.gif"/>
   </div>
    <br>
   <h1 align=center>Helder Lourenço De Abreu Marques</h1>
   <p>i'm not the regular programmer type you see on web but i'm trying my best to become a quality programmer.I'm intrested in optmize existing things, embbed systems and iot projects.I also like play video games and hear music.</p>
   <br>
   <div align="center">
-   <img align="right" alt="GIF" width="140em" height="120em" src="./jonis-unscreen.gif"/>
+   <img align="right" alt="GIF" width="140em" height="120em" src="./images/jonis-unscreen.gif"/>
    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1reFinger&layout=compact&langs_count=7&theme=merko"/>
-   <img align="right" alt="GIF" width="180em" height="120em" src="./breathtaking-unscreen.gif"/>
+   <img align="right" alt="GIF" width="180em" height="120em" src="./images/breathtaking-unscreen.gif"/>
   </div>
 
 
