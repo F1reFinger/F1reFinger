@@ -17,7 +17,7 @@
   <div align="center">
    <img align="right" alt="GIF" width="140em" height="120em" src="./images/jonis-unscreen.gif"/>
    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1reFinger&layout=compact&langs_count=7&theme=merko"/>
-   <img align="right" alt="GIF" width="180em" height="120em" src="./images/breathtaking-unscreen.gif"/>
+   <img align="left" alt="GIF" width="180em" height="120em" src="./images/breathtaking-unscreen.gif"/>
   </div>
 
 
