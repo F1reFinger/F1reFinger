@@ -12,7 +12,7 @@
   </div>
    <br>
   <h1 align=center>Helder Lourenço De Abreu Marques</h1>
-  <p>i'm not the regular programmer type you see on web but i'm trying my best to become a quality programmer.I'm intrested in optmize existing things, embbed systems and iot projects.I also like play video games and hear music.</p>
+  <p>i'm not the regular programmer type you see on web but i'm trying my best to become a quality programmer.I'm intrested in optmize existing things, embbed systems and iot project.i'm also new to game development but i'm beginning to like it i had participated in one gamejam and interested and learn more about this area.I've been participating in an competition team where we create fight robots and really draw me attention to that. I like play video games and hear music.</p>
   <br>
   <div align="center">
    <img align="right" alt="GIF" width="140em" height="120em" src="./images/jonis-unscreen.gif"/>
@@ -27,8 +27,10 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/helder-lourenço-de-abreu-marques-b02093226/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black"></a> 
+  
  
   ![Snake animation](https://github.com/F1reFinger/F1reFinger/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
   <br>
