@@ -42,9 +42,9 @@
  </div>
  
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F1reFinger/F1reFinger/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/F1reFinger/F1reFinger/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/F1reFinger/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/F1reFinger/F1reFinger/blob/main/.github/workflows/cobrinha.yml">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/F1reFinger/F1reFinger/blob/main/.github/workflows/cobrinha.yml">
+  <img alt="github contribution grid snake animation" src="https://github.com/F1reFinger/F1reFinger/blob/main/.github/workflows/cobrinha.yml">
 </picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
