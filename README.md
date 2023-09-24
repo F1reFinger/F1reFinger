@@ -45,7 +45,6 @@
  
 </div>
   <br>
-  <br>
   <div style="margin-left: 50">
   <img align="center" alt="jpg" src="./images/50042.jpg"/>
 </div>
